@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>one for all</title>
+    <link>https://oneforall.xyz/</link>
+    <description>Recent content on one for all</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 30 Jun 2018 21:18:31 +0800</lastBuildDate>
+    
+        <atom:link href="https://oneforall.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://oneforall.xyz/post/first/</link>
+      <pubDate>Sat, 30 Jun 2018 21:18:31 +0800</pubDate>
+      
+      <guid>https://oneforall.xyz/post/first/</guid>
+      
+        <description>&lt;p&gt;#1&lt;/p&gt;
+
+&lt;p&gt;aa&lt;/p&gt;
+
+&lt;p&gt;vv&lt;/p&gt;
+
+&lt;p&gt;dsf&lt;/p&gt;
+
+&lt;p&gt;adfafavv&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://oneforall.xyz/about/</link>
+      <pubDate>Sat, 30 Jun 2018 21:00:10 +0800</pubDate>
+      
+      <guid>https://oneforall.xyz/about/</guid>
+      
+        <description>&lt;p&gt;关于我:&lt;/p&gt;
+
+&lt;p&gt;目前是一枚运维工程师,姑且这么说吧.&lt;/p&gt;
+
+&lt;p&gt;创建这个分享平台的目的是把我工作的文档展现出来,算是对自己的一些认可吧&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
